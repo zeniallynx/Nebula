@@ -1,0 +1,23 @@
+{
+    "version": "Eon v1.0 ALPHA",
+    "launcher_version": "3.2.2",
+    "minecraft_version": "1.12.2",
+    "chunk": true,
+    "servers": [
+        {
+            "id": "Eon 1.12.2",
+            "name": "Endeleas Network 1.12.2",
+            "description": "Welcome to your arrival, You come from a destroyed earth full of dragons, heading to a new destination eons across.",
+            "address": "172.107.179.22:25655",
+            "ip": "172.107.179.22",
+            "port": 25655,
+            "mainteance": true
+        }
+    ],
+    "mods": [
+
+    ],
+    "files": [
+        
+    ]
+}
